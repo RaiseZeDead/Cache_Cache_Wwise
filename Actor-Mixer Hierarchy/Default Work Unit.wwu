@@ -22,6 +22,25 @@
 						<ActiveSource Name="BK021 - 01-Plage" ID="{11606F6D-6945-4A44-836C-DD33E62E4C42}" Platform="Linked"/>
 					</ActiveSourceList>
 				</Sound>
+				<Sound Name="nappe_test" ID="{6715E83C-F764-4E9A-A509-7B4167BEA450}" ShortID="163393777">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{1C14060C-5253-4901-92F9-AD7626616FA7}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{173301CD-B975-4464-975F-83474DE3A448}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="nappe_test" ID="{0610F361-C49F-4466-8F6A-4FA0206B0F3F}" ShortID="387000026">
+							<Language>SFX</Language>
+							<AudioFile>nappe_test.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="nappe_test" ID="{0610F361-C49F-4466-8F6A-4FA0206B0F3F}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
 			</ChildrenList>
 		</WorkUnit>
 	</AudioObjects>

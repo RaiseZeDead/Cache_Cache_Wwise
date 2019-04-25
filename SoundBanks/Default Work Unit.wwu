@@ -6,6 +6,7 @@
 				<SoundBank Name="cache_cache" ID="{746A04E6-29DF-470A-9080-94489DD8AFEB}">
 					<ObjectInclusionList>
 						<ObjectRef Name="Play_BK021___01_Plage" ID="{4DD30291-2787-4959-B299-45013D6C1C05}" WorkUnitID="{29AF8954-F6F1-46FA-82F3-8FED891F20D6}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_nappe" ID="{2BC15B5A-41DB-4F90-BA2F-01843B6307BF}" WorkUnitID="{29AF8954-F6F1-46FA-82F3-8FED891F20D6}" Filter="7" Origin="Manual"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>

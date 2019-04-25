@@ -22,11 +22,16 @@
 			<Path>cache_cache.bnk</Path>
 			<IncludedEvents>
 				<Event Id="1510231894" Name="Play_BK021___01_Plage" ObjectPath="\Events\Default Work Unit\Play_BK021___01_Plage"/>
+				<Event Id="1173646182" Name="Play_nappe" ObjectPath="\Events\Default Work Unit\Play_nappe"/>
 			</IncludedEvents>
 			<IncludedMemoryFiles>
 				<File Id="223630050" Language="SFX">
 					<ShortName>BK021 - 01-Plage.wav</ShortName>
 					<Path>SFX\BK021 - 01-Plage_56D34C19.wem</Path>
+				</File>
+				<File Id="387000026" Language="SFX">
+					<ShortName>nappe_test.wav</ShortName>
+					<Path>SFX\nappe_test_56D34C19.wem</Path>
 				</File>
 			</IncludedMemoryFiles>
 		</SoundBank>

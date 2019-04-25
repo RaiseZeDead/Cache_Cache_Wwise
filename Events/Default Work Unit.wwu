@@ -17,6 +17,20 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Play_nappe" ID="{2BC15B5A-41DB-4F90-BA2F-01843B6307BF}">
+					<ChildrenList>
+						<Action Name="" ID="{10FD9518-361F-45EE-BF95-40AC0D252E58}" ShortID="694641739">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="nappe_test" ID="{6715E83C-F764-4E9A-A509-7B4167BEA450}" WorkUnitID="{DB491736-C032-46B9-9748-4133F8653C42}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>
