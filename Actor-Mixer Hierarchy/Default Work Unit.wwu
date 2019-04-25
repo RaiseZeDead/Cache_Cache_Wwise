@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{DB491736-C032-46B9-9748-4133F8653C42}" SchemaVersion="89">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{DB491736-C032-46B9-9748-4133F8653C42}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="BK021 - 01-Plage" ID="{AD1CD1A7-6525-48F5-A2CD-1B5B78D52DC6}" ShortID="392239699">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{1C14060C-5253-4901-92F9-AD7626616FA7}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{173301CD-B975-4464-975F-83474DE3A448}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="BK021 - 01-Plage" ID="{11606F6D-6945-4A44-836C-DD33E62E4C42}" ShortID="223630050">
+							<Language>SFX</Language>
+							<AudioFile>BK021 - 01-Plage.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="BK021 - 01-Plage" ID="{11606F6D-6945-4A44-836C-DD33E62E4C42}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

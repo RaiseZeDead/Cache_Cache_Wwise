@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{29AF8954-F6F1-46FA-82F3-8FED891F20D6}" SchemaVersion="89">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{29AF8954-F6F1-46FA-82F3-8FED891F20D6}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play_BK021___01_Plage" ID="{4DD30291-2787-4959-B299-45013D6C1C05}">
+					<ChildrenList>
+						<Action Name="" ID="{800129AB-74D3-4DEA-AA5B-F37CB1320171}" ShortID="419340107">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="BK021 - 01-Plage" ID="{AD1CD1A7-6525-48F5-A2CD-1B5B78D52DC6}" WorkUnitID="{DB491736-C032-46B9-9748-4133F8653C42}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

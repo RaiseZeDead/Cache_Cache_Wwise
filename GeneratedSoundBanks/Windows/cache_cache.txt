@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1510231894	Play_BK021___01_Plage			\Default Work Unit\Play_BK021___01_Plage	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	223630050	BK021 - 01-Plage	C:\Users\thoma\Documents\WwiseProjects\M1_CACHE-CACHE\.cache\Windows\SFX\BK021 - 01-Plage_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\BK021 - 01-Plage		23127076
+
